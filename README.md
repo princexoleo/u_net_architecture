@@ -1,6 +1,6 @@
 ## U-Net: Convolutional Networks for Biomedical Image Segmentation
 This repository created for CSI 416 (Pattern Recognition Lab) projects.
-Our class teaher is Sajid Ahmed.
+Our class teacher is # Sajid Ahmed.
 And Our team members details are
 1.Mazharul Islam Leon
 2.Md Ifraham Iqbal
